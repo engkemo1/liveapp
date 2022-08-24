@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="fb" transform="translate(0 0)">
+    <circle id="Oval" cx="25" cy="25" r="25" transform="translate(0 0)" fill="#2672cb"/>
+    <path id="Path" d="M12.5,4.688H9.375A1.476,1.476,0,0,0,7.813,6.25V9.375H12.5v4.688H7.813V25H3.125V14.063H0V9.375H3.125V5.469A5.536,5.536,0,0,1,8.594,0H12.5Z" transform="translate(18.75 13.75)" fill="#fff"/>
+  </g>
+</svg>
